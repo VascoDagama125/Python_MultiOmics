@@ -1,5 +1,5 @@
 # Python_MultiOmics
 Engineers's Thesis
-Program analizuj acy genomiczne i genomiczne bazy danych z funkcja powiazania ze soba cech genotypowych z fenotypowymi
 
-Computer program in Python language, using readily avaible bioinformatic libraries. The programm task is to connect with databases that posses genomics and proteomic data. Next program will bind togther this data into one  and show correlation beetwen genome, gene and proteome.
+
+Computer program in Python language, using readily avaible bioinformatic libraries. The program task is to analyze and use multiple bioinformatic file format and their data with usage of dataframe  to point the GO  function of the gene with deepl learnig methods
